@@ -300,8 +300,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Shree Gowda** — Full Stack Developer
 
-- GitHub: [@yourusername](https://github.com/shreegowda211-dotcom)
-//- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- GitHub: [@ShreeGowda](https://github.com/shreegowda211-dotcom)
+<!-- - Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
 
 ---
 
@@ -309,6 +309,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ### 🌟 If you found this project helpful, please give it a star!
 
-**Made with ❤️ by Shree Gowda**
+Made with ❤️ by **Shree Gowda**
 
 </div>
